@@ -1,0 +1,12 @@
+name: WarpPads
+author: XFuryMCPE
+description: Walk on a block to warp to another block!
+website: http://www.Twitter.com/XFuryMCPE
+version: 1.0.0
+main: WarpPads\MainClass
+api: [1.12.0,2.0.0]
+
+permissions:
+ warppads.op:
+  description: Use of all warp block functionalities
+  default: op
